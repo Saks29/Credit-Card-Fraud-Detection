@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/33c6a6c4-5274-4196-a4d5-d1198c1815b7)
+
 -----
 
 # Credit Card Fraud Detection: A Machine Learning Approach 🛡️💳
