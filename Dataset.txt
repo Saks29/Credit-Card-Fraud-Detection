@@ -1,3 +1,0 @@
-# This Dataset from Kaggle is used which also mentioned in the journal
-
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
